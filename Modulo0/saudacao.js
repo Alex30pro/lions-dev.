@@ -8,3 +8,4 @@ console.log(frasesaudacao)
 // variavel mensagem = ola
 // variavel frasesaudacao = mensagem + nome
 // console.log = frasesaudacao
+// consegui editar pelo git//
