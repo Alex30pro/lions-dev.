@@ -34,5 +34,6 @@ function determinarVencedor(escolhaUsuario, escolhaComputador) {
     console.log(`O usuario jogou ${escolhaUsuario} e a IA jogou ${opcoes[escolhaComputador]}`)
     console.log(resultado)
 }
+// moii//
 
 
